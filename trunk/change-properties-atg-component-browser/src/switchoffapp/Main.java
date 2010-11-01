@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package switchoffapp;
 
 import java.io.File;
@@ -27,8 +24,8 @@ import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
 
 /**
- *
- * @author amohsin
+ *  @author Abdul Mohsin
+ *   Email :abdul82@gmail.com
  */
 public class Main {
 
