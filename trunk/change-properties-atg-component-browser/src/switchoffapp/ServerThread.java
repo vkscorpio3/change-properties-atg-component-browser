@@ -19,10 +19,12 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
 
-/**
- *
- * @author amohsin
+
+ /**
+ *  @author Abdul Mohsin
+ *   Email :abdul82@gmail.com
  */
+
 public class ServerThread extends Thread {
 
     private String server;
